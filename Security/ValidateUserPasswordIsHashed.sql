@@ -1,0 +1,1 @@
+SELECT password_hash from users;
