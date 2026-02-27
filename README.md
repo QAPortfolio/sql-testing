@@ -4,4 +4,3 @@
 - CRUD Operations
 - Transaction Management
 - Security
-- Performance
